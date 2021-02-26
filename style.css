@@ -1,0 +1,26 @@
+.jumbotron {
+  background-color: rgba(212, 244, 245, 0.883);
+}
+.jumbotron img {
+  margin-top: 100px;
+}
+.about,
+.gallery,
+.contact {
+  padding-top: 90px;
+}
+.gallery {
+  background-color: rgba(212, 244, 245, 0.883);
+}
+footer {
+  text-align: center;
+  margin-top: -50px;
+  font-size: large;
+}
+footer p a {
+  text-decoration: none;
+  transition: 1s all;
+}
+footer p a:hover {
+  color: aqua;
+}
